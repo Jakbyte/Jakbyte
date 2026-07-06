@@ -43,5 +43,5 @@ A passionate tech student balancing between building robust software and securin
 
 ---
 <p align="right">
-  <img src="https://profile-counter.glitch.me/Jakbyte/count.svg" alt="Visitors Counter" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fjakbyte-profile%2Fvisits&color=ff007f&style=flat-square" alt="Visitors" />
 </p>
