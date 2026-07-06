@@ -18,14 +18,10 @@ A passionate tech student balancing between building robust software and securin
 
 ### 🛠️ Tech Stack & Tools
 
-• **Programming Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+• **Programming Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-• **Cybersecurity & OS:**
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-00C5FF?style=for-the-badge&logo=parrotos&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+• **Cybersecurity & OS:** ![Parrot OS](https://img.shields.io/badge/Parrot_OS-00C5FF?style=for-the-badge&logo=parrotos&logoColor=black) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ---
 
 ### 📊 My GitHub Stats
@@ -33,16 +29,16 @@ A passionate tech student balancing between building robust software and securin
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakbyte&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
+
 ---
 
 🏅 **My GitHub Trophies:**
-[![Anurag's GitHub Trophi](https://github-profile-trophies.vercel.app/?username=Jakbyte&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophies)
+[![Anurag's GitHub Trophies](https://github-profile-trophies.vercel.app/?username=Jakbyte&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophies)
 
 ---
 
 ## 🤝 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](ТУТ_ТВОЄ_ПОСИЛАННЯ_НА_LINKEDIN)
-[![Telegram](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](@jakbyte)
+[![Telegram](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jakbyte)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jakbyte0@gmail.com)
 
 ---
