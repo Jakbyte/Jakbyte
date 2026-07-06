@@ -1,3 +1,5 @@
+![Jakbyte Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,23,24,25&height=200&section=header&text=JAKBYTE&fontSize=70&fontColor=80f2ff&animation=fadeIn&theme=tokyonight)
+
 # Hi there, I'm Jakbyte! 👋
 
 A passionate tech student balancing between building robust software and securing digital systems. Currently combining Software Engineering in college with Cybersecurity studies at the university.
