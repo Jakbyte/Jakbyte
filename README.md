@@ -40,6 +40,11 @@ A passionate tech student balancing between building robust software and securin
 
 ---
 
+🏅 **My GitHub Trophies:**
+[![Anurag's GitHub Trophi](https://github-profile-trophies.vercel.app/?username=Jakbyte&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophies)
+
+---
+
 ## 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](ТУТ_ТВОЄ_ПОСИЛАННЯ_НА_LINKEDIN)
 [![Telegram](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](@jakbyte)
