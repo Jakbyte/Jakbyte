@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cyber_banner.gif" alt="Jakbyte Cyber Security & Software Engineering Banner" width="100%">
+  <img src="banner.png" alt="Jakbyte Banner" width="100%">
 </p>
 
 # Hi there, I'm Jakbyte! 👋
