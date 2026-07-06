@@ -43,5 +43,5 @@ A passionate tech student balancing between building robust software and securin
 
 ---
 <p align="right">
-  <img src="https://komarev.com/badge/counter/visitors/?username=Jakbyte&color=ff007f&style=flat-square" alt="Visitors" />
+  <img src="https://profile-counter.glitch.me/Jakbyte/count.svg" alt="Visitors Counter" />
 </p>
