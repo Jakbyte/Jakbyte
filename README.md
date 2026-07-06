@@ -1,4 +1,6 @@
-![Jakbyte Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,23,24,25&height=200&section=header&text=JAKBYTE&fontSize=70&fontColor=80f2ff&animation=fadeIn&theme=tokyonight)
+<p align="center">
+  <img src="cyber_banner.gif" alt="Jakbyte Cyber Security & Software Engineering Banner" width="100%">
+</p>
 
 # Hi there, I'm Jakbyte! 👋
 
