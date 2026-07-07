@@ -48,8 +48,8 @@ vis
 
 ---
 
-### ⏱️ Coding Activity
+### ⏱️ My Weekly Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ТВІЙ_НІК_НА_WAKATIME&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats-six-alpha.vercel.app/api/wakatime?username=Jakbyte&theme=tokyonight&layout=compact" alt="Jakbyte WakaTime Stats" />
 </p>
