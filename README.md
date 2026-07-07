@@ -13,7 +13,7 @@ A passionate tech student balancing between building robust software and securin
 - 💻 **Focus:** Secure Coding, Application Architecture, and System Security
 - 🛡️ **My Goal:** To bridge the gap between development and security (DevSecOps approach)
 - 🌱 **Currently learning:** Linux Administration, Advanced Python scripting, and OWASP Top 10 vulnerabilities
-
+vis
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -44,4 +44,12 @@ A passionate tech student balancing between building robust software and securin
 ---
 <p align="right">
   <img src="https://img.shields.io/badge/dynamic/json?label=visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fjakbyte-profile%2Fvisits&color=ff007f&style=flat-square" alt="Visitors" />
+</p>
+
+---
+
+### ⏱️ Coding Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ТВІЙ_НІК_НА_WAKATIME&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
 </p>
