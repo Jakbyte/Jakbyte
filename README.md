@@ -48,5 +48,16 @@ vis
 
 ---
 <!--START_SECTION:waka-->
+
+```txt
+From: 01 July 2026 - To: 07 July 2026
+
+Git Config            24 mins               █████████░░░░░░░░░░░░░░░░   36.52 %
+Python                22 mins               ████████▒░░░░░░░░░░░░░░░░   33.28 %
+Bash                  12 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.98 %
+ObjectPascal          4 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
+Sublime Text Config   1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+```
+
 <!--END_SECTION:waka-->
 
