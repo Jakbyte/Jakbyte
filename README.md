@@ -47,5 +47,5 @@ vis
 </p>
 
 ---
-![WakaTime](https://wakatime.com/badge/user/3384d04c-d16b-44d8-ad56-88110d360f9c/project/8f263115-43a8-4ba3-a766-6ca9830634b8.svg)
+[![Jakbyte's WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Jakbyte&layout=compact)](https://wakatime.com/@Jakbyte)
 
