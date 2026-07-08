@@ -47,5 +47,6 @@ vis
 </p>
 
 ---
-[![Jakbyte's WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Jakbyte&layout=compact)](https://wakatime.com/@Jakbyte)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
