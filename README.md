@@ -50,13 +50,13 @@ vis
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 July 2026 - To: 08 July 2026
+From: 03 July 2026 - To: 09 July 2026
 
-Python                1 hr 42 mins          ██████████████▓░░░░░░░░░░   58.44 %
-Git Config            35 mins               █████░░░░░░░░░░░░░░░░░░░░   20.08 %
-Bash                  30 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
-ObjectPascal          4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-Sublime Text Config   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Python                7 hrs 36 mins         ████████████████████▓░░░░   82.66 %
+Bash                  38 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
+Git Config            35 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
+Yacc                  13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+ObjectPascal          4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->
