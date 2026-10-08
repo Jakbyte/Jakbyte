@@ -50,11 +50,13 @@ vis
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2026 - To: 06 October 2026
+From: 30 September 2026 - To: 07 October 2026
 
-C#                   1 hr 50 mins          ███████████████████████▒░   92.74 %
-JSON with Comments   8 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
-XML                  0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+C#                   1 hr 50 mins          ███████████▓░░░░░░░░░░░░░   46.10 %
+Other                1 hr 14 mins          ███████▓░░░░░░░░░░░░░░░░░   31.17 %
+Python               31 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
+Bash                 12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+JSON with Comments   8 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
 ```
 
 <!--END_SECTION:waka-->
